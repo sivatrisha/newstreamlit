@@ -23,8 +23,8 @@ lottie_coding = load_lottieurl("https://lottie.host/47b921eb-9aa7-4868-a2b6-c3a8
 # # ----- HEADER SECTION ---------
 with st.container():
     st.subheader("Hi, it's Synaptic Sisters :wave:")
-    st.title("EpiGenius: Detecting Skin Conditions with Machine Learning ")
-    st.write("Framework: TensorFlow, Jupyter, Python ")  #make sure to edit this 
+    st.title("SkinSense: Detecting Skin Conditions with Machine Learning ")
+    st.write("Programs: TenserFlow, Juypter, Python ")  #make sure to edit this 
 
 # # ---- WHAT I DOOO
 with st.container():
@@ -38,10 +38,11 @@ with st.container():
             DEEP DIVE INTO HEALTHCARE:
 
 
-            The American Health Care System really thinks students are rich when we're broke college
-            students. Healthcare costs are spiralling north and hopefully one day we can help 
-            humans solve real medical problems. But our model cannot do this alone. Each time 
-            you use SkinWise, I learn deeply (no pun intended) from it. 
+            The American Health Care System really thinks we're rich when we're broke college
+            students Healthcare costs are spiralling north and hopefully one day we can help 
+            humans solve real medical problems. But I cannot do this alone. Each time 
+            you use me, I learn deeply (no pun intended) from it. Your feedbacks 
+            are also very important.
             
             
 
